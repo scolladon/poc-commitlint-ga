@@ -1,5 +1,0 @@
-{
-    "hooks": {
-        "commit-msg": "commitlint -E $1"
-    }
-}
